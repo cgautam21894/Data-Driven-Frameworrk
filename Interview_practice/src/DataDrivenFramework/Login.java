@@ -13,6 +13,8 @@ import org.testng.ITestResult;
 import org.testng.annotations.DataProvider;
 
 
+//Login File
+
 public class Login {
 	WebDriver driver;
 	XSSFSheet sheet;
@@ -61,7 +63,7 @@ public class Login {
 		int noOfRows=re.rowNum(sheet);
 		System.out.println("rowNum:" +noOfRows);
 		int noOfCols=re.colNum(sheet);
-		System.out.println("colNum:" +noOfCols);
+		System.out.println("columnNumber:" +noOfCols);
 		
 		Object data[][] = new Object[noOfRows][noOfCols];
 		for(int i=0; i< noOfRows;i++ )
