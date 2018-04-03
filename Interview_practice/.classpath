@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/client-combined-3.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/xmlbeans-5.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A638108/Desktop/Selenium/ImpJars/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
